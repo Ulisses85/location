@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-744c31e454316efa86691251880c9913320a73a8.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-c14839e40a7947b2e3bd306bc30bd4a7e8e984f7.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-ef55e3b66f6666941d88420ceae0571f65e604cc.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-2d25a7d1be524a0b061ed99490fee0739207e43a.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-1c643d5af747e7f955c4e7e99ccd95d151072bd4.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-ee29885c44bd3376f8724d038d37d9e9473cbea9.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-e8efc5a1e3e2de57dccbfed9b8c4c182ac55a14b.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-7306bd19821ca625e2e6f3ec84ebe9333f9819a2.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-19e1e9a9c6746db33c4aadd0991d5f7a92654980.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-24cc47e669fc8e9aacfd5a91cde44369c000af85.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-94cbaa44f8c116fd3dff65d7ee2507922c77e9e1.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-df9671053b4b4536804a1bf10b00991cc1d684dd.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-f02e3e4a93cb9738921be180b56f487ff4a1c2ad.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-15a222e81dfcb6a33aa929e391f1ab29e793e113.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-d432e50be6db7c9b1e2931cf84413e45da8f39c0.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-b16d223c9ab46ed92c1f264a69ccadab2ff23c5c.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-34744584a2c09b372f7ead15f47e2a1f172f90de.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-97af1d18a23b280f328fb5c425ec4353d0be9139.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-005f36552e5e76b11486aad46f01858d7360bae7.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-673b7aac6f0b403bb9a03fa29065a155e88c0c4d.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-08de6e68227976c25e743ca2ce850d6dacefcfeb.jar" />
+    </item>
+    <item
+        jar="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/lukasz/Desktop/GeolocationExample/android/app/build/intermediates/pre-dexed/debug/classes-08b03d7098f29d1b05b10aaa3a18435e28c0501d.jar" />
+    </item>
+
+</items>
